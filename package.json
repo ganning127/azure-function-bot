@@ -15,7 +15,7 @@
     "@probot/adapter-azure-functions": "^1.0.12",
     "body-parser": "^1.19.0",
     "js-yaml": "^4.0.0",
-    "node-fetch": "^2.6.1",
+    "node-fetch": "^3.2.3",
     "probot": "^11.4.1"
   },
   "devDependencies": {
